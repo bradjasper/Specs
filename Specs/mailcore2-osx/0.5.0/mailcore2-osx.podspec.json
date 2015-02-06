@@ -14,7 +14,7 @@
     "flatten": true
   },
   "platforms": {
-    "osx": 10.9
+    "osx": 10.8
   },
   "header_dir": "MailCore",
   "requires_arc": false,
